@@ -21,11 +21,11 @@ Album and packages features:
 
 After simulating 1000 times, we get a distribution as follows:
 
-![](https://github.com/axlyaguana11/sticker-album-panini/figures/figure_1)
+![](https://github.com/axlyaguana11/sticker-album-panini/blob/main/figures/figure_1.png)
 
 And the cumulative probability:
 
-![](https://github.com/axlyaguana11/sticker-album-panini/figures/figure_2)
+![](https://github.com/axlyaguana11/sticker-album-panini/blob/main/figures/figure_2.png)
 
 From those figures, we can summirise numerically as follows:
 
